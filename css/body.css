@@ -1,0 +1,242 @@
+body {
+  background: #ffffff;
+  color: black;
+  font-family: helvetica, arial, sans-serif;
+  font-style: normal;
+  font-size: 10pt;
+}
+
+a {text-decoration: none}
+a:link {color: #236a9c}
+a:visited {color: #236a9c}
+aaa:visited {color: red}
+a:active {color: #408cb0}
+a:hover {color: red; text-decoration: underline}
+
+div.kmatype {
+      margin-left:20;
+      margin-right:20;
+      margin-top:20;
+      margin-bottom:20;
+    }
+
+div.kmafull {
+      margin-left:15;
+      margin-right:10;
+    }
+
+div.navtable {
+      margin-top:30;
+      margin-bottom:40;
+    }
+
+.kmatype {
+    font-size: 10pt;
+    font-family: helvetica, arial, sans-serif;
+    padding-top:5;
+    padding-bottom:5;
+    padding-left:5;
+    padding-right:5;
+     }
+
+.kmaheader {
+    font-size: 12pt;
+    font-family: helvetica, arial, sans-serif;
+    color: white;
+     }
+
+.kmaprice {
+    font-size: 12pt;
+    font-family: helvetica, arial, sans-serif;
+    color: white;
+     }
+
+
+div.tiny table td {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 8pt;
+    }
+
+div.tiny table th {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 8pt;
+    }
+
+div.navlinks table td {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 10pt;
+    }
+
+div.navlinks table th {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 10pt;
+    }
+
+div.navlinks a:link {color: white;}
+div.navlinks a:visited {color: white;}
+div.navlinks a:active {color: cyan}
+div.navlinks a:hover {color: white; text-decoration: underline}
+
+div.kmatype a:link {color: black;}
+div.kmatype a:visited {color: black;}
+div.kmatype a:active {color: cyan}
+div.kmatype a:hover {color: black; text-decoration: underline}
+
+
+div.news {
+    margin-top:20;
+    margin-bottom:20;
+      }
+
+div.news table td {
+    font-family: helvetica, arial, sans-serif;
+    }
+
+div.news table th {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 10pt;
+    }
+
+div.news table a {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 10pt;
+    }
+
+.news {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 10pt;
+   }
+
+.newstext {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 10pt;
+  padding-top:5;
+  padding-bottom:5;
+  padding-left:10;
+  padding-right:5;
+   }
+
+.newsentry {
+    font-size: 10pt;
+    font-family: helvetica, arial, sans-serif;
+    color: white;
+     }
+
+.newsdate {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 8pt;
+  padding-top:3;
+  padding-bottom:5;
+  padding-left:5;
+  padding-right:5;
+  color: white;
+   }
+
+.newsheader {
+    font-size: 10pt;
+    font-family: helvetica, arial, sans-serif;
+    color: white;
+    padding-top:2;
+    padding-bottom:2;
+     }
+
+.subtable {
+    padding: 0;
+    margin: 0;
+    }
+
+.nopad {
+    padding: 0;
+    }
+
+
+.navlinks {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 10pt;
+    }
+
+.currentdoc {
+      font-family: helvetica, arial, sans-serif;
+      font-size: 10pt;
+      color: yellow;
+    }
+.tiny  {
+    color: black;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 8pt;
+  }
+
+.tableheader {
+    font-size: 10pt;
+    color: white;
+     }
+
+
+.tthheader {
+    font-size: 12pt;
+    font-weight: bold;
+    font-family: helvetica, arial, sans-serif;
+    color: white;
+    padding-top:5;
+    padding-bottom:5;
+    padding-left:5;
+    padding-right:5;
+     }
+
+.theader {
+    font-size: 8pt;
+    font-family: helvetica, arial, sans-serif;
+    color: white;
+    padding-left: 5;
+    padding-right: 5;
+    padding-top: 3;
+    padding-bottom: 3;
+    margin: 0;
+     }
+
+.tentry {
+    font-size: 8pt;
+    font-family: helvetica, arial, sans-serif;
+    color: black;
+
+     }
+
+.tthentry {
+    font-size: 10pt;
+    font-family: helvetica, arial, sans-serif;
+    color: white;
+    padding-top:0;
+    padding-bottom:5;
+    padding-left:5;
+    padding-right:5;
+     }
+.tthentrybold {
+    font-size: 10pt;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-top:0;
+    padding-bottom:5;
+    padding-left:5;
+    padding-right:5;
+     }
+
+
+.tabletext2 {
+    font-size: 10pt;
+    font-family: helvetica, arial, sans-serif;
+     }
+
+.tabletext3 {
+    font-size: 10pt;
+    font-family: helvetica, arial, sans-serif;
+    padding-top:0;
+    padding-bottom:5;
+    padding-left:5;
+    padding-right:5;
+     }
+
+
+.tabletext {
+    font-size: 10pt;
+     }
